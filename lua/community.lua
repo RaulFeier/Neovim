@@ -8,5 +8,14 @@
 return {
   "AstroNvim/astrocommunity",
   { import = "astrocommunity.pack.lua" },
-  -- import/override with your plugins folder
+  { import = "astrocommunity.recipes.heirline-nvchad-statusline" },
+  { import = "astrocommunity.colorscheme.catppuccin" },
+  { import = "astrocommunity.colorscheme.onedarkpro-nvim" },
+  { import = "astrocommunity.colorscheme.vscode-nvim" },
+  { import = "astrocommunity.colorscheme.vim-dogrun" },
+  { import = "astrocommunity.colorscheme.monokai-pro-nvim" },
+  { import = "astrocommunity.colorscheme.bamboo-nvim" },
+  { import = "astrocommunity.color.huez-nvim" },
+  { import = "astrocommunity.recipes.vscode-icons" },
+  { import = "astrocommunity.colorscheme.onedarkpro-nvim" },
 }
