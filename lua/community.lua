@@ -18,4 +18,7 @@ return {
   { import = "astrocommunity.color.huez-nvim" },
   { import = "astrocommunity.recipes.vscode-icons" },
   { import = "astrocommunity.colorscheme.onedarkpro-nvim" },
+  { import = "astrocommunity.pack.cpp" },
+  { import = "astrocommunity.pack.python" },
+
 }
